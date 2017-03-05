@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-myString = input("Please enter the string\n")
+myString = input("Please enter a text\n")
 
 def findAllDifferentChars(insc):
 	list = []
