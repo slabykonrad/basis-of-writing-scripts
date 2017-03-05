@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import string
 
 myString = input("Please enter the string\n")
 
